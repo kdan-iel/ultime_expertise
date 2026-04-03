@@ -1,0 +1,5 @@
+{
+  "name": "Ultime Expertise SARL",
+  "description": "Expertise en ingénierie domotique, fourniture industrielle et formation technique au Togo.",
+  "requestFramePermissions": ["geolocation"]
+}
