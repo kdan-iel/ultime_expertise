@@ -34,7 +34,7 @@ export default function Navbar() {
           <Link to="/" className="flex items-center group">
             <div className="relative h-12 w-12 mr-3 transition-transform group-hover:scale-105">
               <img 
-                src="logo2.png" 
+                src="logo3.png" 
                 alt="Ultimate Expertise Logo" 
                 className="h-full w-full object-contain"
                 referrerPolicy="no-referrer"
